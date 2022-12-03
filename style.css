@@ -58,7 +58,7 @@ h1 {
     background-color: orange;
 }
 
-.links {
+.links .center {
     display: inline;
 }
 
@@ -66,4 +66,9 @@ h1 {
     background-color: aquamarine;
     width: 100%;
     height: 100%;
+}
+
+.grilledcheese.img {
+    width: 100%;
+    height: auto;
 }
